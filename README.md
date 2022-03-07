@@ -1,10 +1,10 @@
-[![MasterHead](https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80)](https://developeranirudh.github.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEaa__f83utqQ/profile-displaybackgroundimage-shrink_350_1400/0/1640881571883?e=1652313600&v=beta&t=N9qU8KSJsUeVVcCA88hErf2BStm5RJiekfH-96hpUMU)](https://developeranirudh.github.io)
 <h1 align="center">Hi 👋, I'm Anirudh Gupta</h1>
 <h3 align="center">I'm currently exploring the field of Full-Stack Web Development 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developeranirudh&label=Profile%20views&color=0e75b6&style=flat" alt="developeranirudh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developeranirudh" alt="developeranirudh" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
