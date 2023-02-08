@@ -1,4 +1,3 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQEaa__f83utqQ/profile-displaybackgroundimage-shrink_350_1400/0/1640881571883?e=1652313600&v=beta&t=N9qU8KSJsUeVVcCA88hErf2BStm5RJiekfH-96hpUMU)](https://developeranirudh.github.io)
 <h1 align="center">Hi 👋, I'm Anirudh Gupta</h1>
 <h3 align="center">I'm currently exploring the field of Full-Stack Web Development 💻</h3>
 
