@@ -1,6 +1,3 @@
-It looks like you've provided a GitHub README template with information about yourself, your social links, and some statistics. To make it more modern and visually appealing, you can enhance the formatting and add more sections. Here's an improved version:
-
-```markdown
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=developeranirudh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -38,12 +35,3 @@ It looks like you've provided a GitHub README template with information about yo
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
 </p>
-```
-
-This code includes several improvements:
-
-1. Added badges for social links to make them more visually appealing and informative.
-2. Styled the GitHub statistics card to match a dark theme.
-3. Center-aligned the content for a cleaner look.
-
-You can further customize the styling, badges, and content according to your preferences and needs.
